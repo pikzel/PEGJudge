@@ -1,2 +1,2 @@
 # PEGJudge
-Solutions to PEGJudge problems.
+My solutions to PEGJudge (http://wcipeg.com/) problems.
